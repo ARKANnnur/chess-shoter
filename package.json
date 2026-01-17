@@ -30,5 +30,8 @@
     "vite": "^7.1.6",
     "vite-plugin-glsl": "^1.5.1",
     "vue-tsc": "latest"
+  },
+  "overrides": {
+    "three": "^0.180.0"
   }
 }
